@@ -1,4 +1,4 @@
-File = open("C:\\Users\ganat\\OneDrive\\Desktop\HarryPotterAndTheSorcerersStone.txt", encoding="UTF-8")     #This helps in opening the file which is to be read
+File = open("HarryPotterAndTheSorcerersStone.txt", encoding="UTF-8")     #This helps in opening the file which is to be read
 
 DictionaryOfWords = {}         #Dictionary mapping every word to a list (of indices of the words' occurences)
 Novel = []                     #List of all words in the order, in which they appear!
